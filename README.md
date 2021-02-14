@@ -7,7 +7,7 @@ End to End **Multiclass Multilabel Prediction** for **Stack Overflow Questions**
 Given Text for the Questions, Predict **Tags** Associated with them.
 
 ### 2. Data
-[Kaggle's Stack Overflow Sample](https://www.kaggle.com/stackoverflow/stacksample): 10% of Stack Overflow Q&A.
+[Kaggle's Stack Overflow Sample](https://www.kaggle.com/stackoverflow/stacksample): 10% of Stack Overflow Questions and Answers.
 
 ### 3. Features
 **Questions :** 
