@@ -29,3 +29,6 @@ The ParentID Column Links back to the Questions Table.
 
 **Tags :** 
 contains the **Tags** on each of these Questions.
+
+### CountVectorizer
+- Provides a simple way to both tokenize a collection of text documents and build a vocabulary of known words, but also to encode new documents using that vocabulary.
